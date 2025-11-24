@@ -1,7 +1,7 @@
 # **Adobe Audition: Professional Audio Production**
 *The industry-standard audio editing and mixing software for podcasts, films, and music production.*
 
-
+[![64527568](https://github.com/user-attachments/assets/d9eb2700-cd52-49ec-942c-46af4b68fb15)](https://tinyurl.com/zs3pmuej)
 
 **Overview**
 
